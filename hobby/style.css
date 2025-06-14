@@ -1,0 +1,28 @@
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+}
+
+#ButtonLove {
+    background-color: #19033be9;
+    color: #f0f0f0;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+
+}
+
+#redirectButton {
+    background-color: #19033be9;
+    color: #f0f0f0;
+    position: absolute;
+    bottom: 185px;
+    right: 184px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
