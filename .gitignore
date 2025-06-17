@@ -1,0 +1,17 @@
+# Ignora tudo
+*
+
+# Permite pastas e arquivos dentro delas
+!Exercicio_1/
+!Exercicio_1/**
+
+!Exercicio_2/
+!Exercicio_2/**
+
+!Exercicio_3/
+!Exercicio_3/**
+
+!Projetos_Logica/
+!Projetos_Logica/**
+
+!.gitignore
