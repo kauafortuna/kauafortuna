@@ -120,7 +120,7 @@ Me chamo Kauã Souza Fortuna, tenho 18 anos e sou de Brasília. Concluí o ensin
 
 ### Estatísticas
 
-<p>
+<!--<p>
   <img 
     align="left" 
     alt="GitHub Stats" 
@@ -129,7 +129,7 @@ Me chamo Kauã Souza Fortuna, tenho 18 anos e sou de Brasília. Concluí o ensin
     src="https://github-readme-stats.vercel.app/api?username=kauafortuna&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 </p>
-<p>
+<p>-->
 <img 
       align="left" 
       alt="GitHub Stats" 
