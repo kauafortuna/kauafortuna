@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Backend`**
 
-Me chamo Kauã Souza Fortuna, tenho 18 anos e sou de Brasília. Concluí o ensino médio no CEM02. Estou no inicio de aprendizagem em Fullstack Javascript e outras linguagens e tecnologias pelos cursos da OneBitCode. Pretendo iniciar bacharelado em Engenharia de Software na UNICEPLAC 1° semêstre em julho e tenho inglês avançado pela escola CCAA. Meu objetivo é poder aprender, desenvolver e usar minhas habilidades para solucionar problemas. Tenho facilidade para aprender.
+Me chamo Kauã Souza Fortuna, tenho 18 anos e sou de Brasília. Concluí o ensino médio no CEM02. Estou no inicio de aprendizagem em Fullstack Javascript e outras linguagens e tecnologias pelos cursos da OneBitCode. Pretendo iniciar bacharelado em Engenharia de Software na UNICEPLAC 1° semêstre em agosto e tenho inglês avançado pela escola CCAA. Meu objetivo é poder aprender, desenvolver e usar minhas habilidades para solucionar problemas. Tenho facilidade para aprender.
 
 <!-- <p align="left">
     <a href="CANALNOYOUTUBELINK">
