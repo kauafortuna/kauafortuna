@@ -130,7 +130,7 @@ Me chamo Kauã Souza Fortuna, tenho 18 anos e sou de Brasília. Concluí o ensin
   />
 </p>
 <p>-->
-<img 
+<!--<p>img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
