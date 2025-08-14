@@ -118,7 +118,7 @@ Me chamo Kauã Souza Fortuna, tenho 18 anos e sou de Brasília. Concluí o ensin
 <br/>
 <br/>
 
-### Estatísticas
+
 
 <!--<p>
   <img 
