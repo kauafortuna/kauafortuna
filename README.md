@@ -58,15 +58,15 @@ Me chamo Kauã Souza Fortuna, tenho 18 anos e sou de Brasília. Concluí o ensin
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
-<!-- <img 
+ <img 
     align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
+    alt="Java"
+    title="Java" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
-<img 
+<!--<img 
     align="left" 
     alt="React"
     title="React" 
@@ -120,7 +120,7 @@ Me chamo Kauã Souza Fortuna, tenho 18 anos e sou de Brasília. Concluí o ensin
 
 
 
-<!--<p>
+
   <img 
     align="left" 
     alt="GitHub Stats" 
@@ -129,12 +129,12 @@ Me chamo Kauã Souza Fortuna, tenho 18 anos e sou de Brasília. Concluí o ensin
     src="https://github-readme-stats.vercel.app/api?username=kauafortuna&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 </p>
-<p>-->
-<!--<p>img 
+
+<img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauafortuna&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
-</p>
+
