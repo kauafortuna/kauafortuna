@@ -1,4 +1,4 @@
-# 🧑🏻‍💻 Kauã Fortuna
+# 💻 Kauã Fortuna
 
 **`SWE - UNICEPLAC`**
 
