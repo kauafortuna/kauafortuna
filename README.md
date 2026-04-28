@@ -2,7 +2,44 @@
 
 **`SWE - UNICEPLAC`**
 
-Me chamo Kauã Souza Fortuna, tenho 18 anos e sou de Brasília. Concluí o ensino médio no CEM02. Estou no inicio de aprendizagem em Fullstack Javascript e outras linguagens e tecnologias pelos cursos da OneBitCode. Estou cursando o 1° semestre de Engenharia de Software na UNICEPLAC (iniciei em agosto) e tenho inglês avançado pela escola CCAA. Meu objetivo é poder aprender, desenvolver e usar minhas habilidades para solucionar problemas. Tenho facilidade para aprender.
+# Olá, eu sou o Kauã Fortuna! 👋
+
+### Software Engineer Student | Cybersecurity | Analista na Polícia Federal
+
+Sou o **Kauã Souza Fortuna**, tenho 19 anos e moro em Brasília. Atualmente, curso o 1º semestre de **Engenharia de Software na UNICEPLAC** e estou aprofundando meus conhecimentos em desenvolvimento **Fullstack** e tecnologias modernas através da OneBitCode.
+
+Atuo profissionalmente como **Analista na Unidade de Controle de Armas e Calibres (UCAC) da Polícia Federal**, onde aplico organização e visão sistêmica em um ambiente de alta criticidade.
+
+---
+
+###  Sobre mim
+
+- 🎓 Graduando em Engenharia de Software (UNICEPLAC).
+- 💻 Desenvolvedor em formação (Stack JavaScript, Ruby on Rails, Java e C).
+- 🛡️ Interessado em Cybersecurity e Defesa Cibernética.
+- 🗣️ Inglês Avançado (CCAA).
+- 💡 Focado em aprender rápido e transformar problemas complexos em soluções eficientes.
+
+###  Tecnologias & Ferramentas
+
+- **Linguagens:** C, Java, JavaScript, Ruby on Rails.
+- **Infra & Cloud:** Docker, Google Cloud Platform (GCP).
+- **Segurança:** Kali Linux & Cybersecurity.
+- **Automação:** n8n.
+- **Design:** Figma.
+- **Versionamento:** Git & GitHub.
+
+---
+
+###  Conecte-se comigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kakaswedev/pt)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kauasouzafortuna.swe@gmail.com)
+
+---
+
+> "Movido pela curiosidade e pela vontade de construir sistemas seguros e eficientes."
+
 
 <!-- <p align="left">
     <a href="CANALNOYOUTUBELINK">
