@@ -2,9 +2,9 @@
 
 ### Software Engineer Student | Cybersecurity | Analista na Polícia Federal
 
-Sou o **Kauã Souza Fortuna**, tenho 19 anos e moro em Brasília. Atualmente, curso o 1º semestre de **Engenharia de Software na UNICEPLAC** e estou aprofundando meus conhecimentos em desenvolvimento **Fullstack** e tecnologias modernas através da OneBitCode.
+Sou o **Kauã Souza Fortuna**, tenho 19 anos e moro em Brasília. Atualmente, curso o 2º semestre e indo para o 3°Semestre agora em Julho de **Engenharia de Software na UNICEPLAC** e estou aprofundando meus conhecimentos na área de **Cybersecurity** e em desenvolvimento Fullstack e tecnologias modernas através da OneBitCode.
 
-Atuo profissionalmente como **Analista na Unidade de Controle de Armas e Calibres (UCAC) da Polícia Federal**, onde aplico organização e visão sistêmica em um ambiente de alta criticidade.
+Atuo profissionalmente como **Analista na Unidade de Controle de Armas e Calibres (UCAC) da Polícia Federal**, onde aplico organização, Segurança de informação e proteção de dados e visão sistêmica em um ambiente de alta criticidade.
 
 ---
 
@@ -13,6 +13,9 @@ Atuo profissionalmente como **Analista na Unidade de Controle de Armas e Calibre
 - Graduando em Engenharia de Software (UNICEPLAC).
 - Desenvolvedor em formação (Stack JavaScript, Ruby on Rails, Java e C).
 - Interessado em Cybersecurity e Defesa Cibernética.
+- Certificação Anthropic em Inteligência Artificial (em andamento)
+- Imersão Alura DevOps GoogleCloud e Docker
+- Logica e Algoritimo 40H -Gustavo G. (Concluído)
 - Inglês Avançado (CCAA).
 - Focado em aprender rápido e transformar problemas complexos em soluções eficientes.
 
@@ -28,7 +31,7 @@ Atuo profissionalmente como **Analista na Unidade de Controle de Armas e Calibre
 ---
 ---
 
-> "Movido pela curiosidade e pela vontade de construir sistemas seguros e eficientes."
+> **"Apaixonado por cibersegurança e pelo universo hacker, com foco em desenvolver sistemas robustos e confiáveis.”**
 
 
 <!-- <p align="left">
