@@ -1,100 +1,136 @@
-# 💻 Kauã Fortuna
+<div align="center">
+  <a href="https://giphy.com/stickers/cat-pixel-animal-I3rbjijgss7D2Oab2A">
+    <img src="https://media.giphy.com/media/I3rbjijgss7D2Oab2A/giphy.gif"
+         width="100"
+         alt="Pixel cat">
+  </a>
+</div> 
 
-### Software Engineer Student | Cybersecurity | Analista na Polícia Federal
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080B12,50:0A192F,100:0071E3&height=200&section=header&text=Kau%C3%A3%20Fortuna&fontSize=44&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Software%20Engineering%20Student%20%E2%80%A2%20Cybersecurity%20%E2%80%A2%20Development&descSize=14&descAlignY=58" alt="Kauã Fortuna"/>
 
-Sou o **Kauã Souza Fortuna**, tenho 19 anos e moro em Brasília. Atualmente, curso o 2º semestre e indo para o 3°Semestre agora em Julho de **Engenharia de Software na UNICEPLAC** e estou aprofundando meus conhecimentos na área de **Cybersecurity** e em desenvolvimento Fullstack e tecnologias modernas através da OneBitCode.
+<br/>
 
-Atuo profissionalmente como **Analista na Unidade de Controle de Armas e Calibres (UCAC) da Polícia Federal**, onde aplico organização, Segurança de informação e proteção de dados e visão sistêmica em um ambiente de alta criticidade.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1200&color=A8C7FA&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Cybersecurity+%26+Cyber+Defense;Building+solutions+one+line+at+a+time;Always+learning%2C+always+evolving;root%40reality%3A~%24+reconnaissance;Hello%2C+friend.;Observe.+Investigate.+Understand.;Nothing+is+ever+what+it+seems.;Control+is+an+illusion." alt="Typing SVG"/>
 
----
+<br/>
 
-###  Sobre mim
+<p>
+  <img src="https://img.shields.io/badge/status-learning-0A192F?style=flat-square&labelColor=080B12" alt="Status: Learning"/>
+  <img src="https://img.shields.io/badge/focus-cybersecurity-0071E3?style=flat-square&labelColor=080B12" alt="Focus: Cybersecurity"/>
+  <img src="https://img.shields.io/badge/based_in-Bras%C3%ADlia-0A192F?style=flat-square&labelColor=080B12" alt="Based in Brasília"/>
+</p>
 
-- Graduando em Engenharia de Software (UNICEPLAC).
-- Desenvolvedor em formação (Stack JavaScript, Ruby on Rails, Java e C).
-- Interessado em Cybersecurity e Defesa Cibernética.
-- Certificação Anthropic em Inteligência Artificial (em andamento)
-- Imersão Alura DevOps GoogleCloud e Docker
-- Logica e Algoritimo 40H -Gustavo G. (Concluído)
-- Inglês Avançado (CCAA).
-- Focado em aprender rápido e transformar problemas complexos em soluções eficientes.
-
-###  Tecnologias & Ferramentas
-
-- **Linguagens:** C, Java, JavaScript, Ruby on Rails.
-- **Infra & Cloud:** Docker, Google Cloud Platform (GCP).
-- **Segurança:** Kali Linux & Cybersecurity.
-- **Automação:** n8n.
-- **Design:** Figma.
-- **Versionamento:** Git & GitHub.
-
----
----
-
-> **"Apaixonado por cibersegurança e pelo universo hacker, com foco em desenvolver sistemas robustos e confiáveis.”**
+</div>
 
 
-<!-- <p align="left">
-    <a href="CANALNOYOUTUBELINK">
-        <img
-            alt="youtube subscribers"
-            title="Inscreva-se no meu canal"
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-     /></p>
-    </a> -->
-<!-- SIMBOLOS DAS LINGUAGENS ANTES -->
-<!--<div style="display: inline_block"><br>
-  <img align="center" alt="Kaua-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
- <!-- <img align="center" alt="Kaua-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">-->
- <!--<img align="center" alt="Kaua-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> -->
-  <!--<img align="center" alt="Kaua-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> 
-  <img align="center" alt="Kaua-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- <img align="center" alt="Kaua-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div> -->
+<br/>
 
-<br>
-  <!--<a href="LINKDOCANAL" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>-->
-  <!--<a href="https://instagram.com/kauafortunakodes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>-->
-<!-- <a href="LINKDODISCORD" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>-->
-  <a href = "mailto:kauasouzafortuna.swe@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href= "https://www.linkedin.com/in/kakaswedev/pt" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<div align="center">
 
+### ✦ &nbsp; about me
 
----
+</div>
 
+Olá! Eu sou o **Kauã Souza Fortuna** ✦
 
-<!--<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JQuery" 
-    title="JQuery"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
-/>--> 
+Estudante de **Engenharia de Software na UNICEPLAC**, com interesse em **Cybersecurity, Defesa Cibernética, Desenvolvimento de Software e Design**. Gosto de explorar novas tecnologias, desenvolver soluções e entender como os sistemas funcionam, sempre buscando evoluir minhas habilidades técnicas e criativas.
 
+Meu objetivo é continuar aprendendo, construir projetos relevantes e crescer profissionalmente na área de tecnologia.
 
+<br/>
 
+<div align="center">
+
+### ⌘ &nbsp; technologies & tools
+
+<br/>
+
+<img src="https://img.shields.io/badge/Java-080B12?style=flat-square&logo=openjdk&logoColor=A8C7FA" alt="Java"/>
+<img src="https://img.shields.io/badge/JavaScript-080B12?style=flat-square&logo=javascript&logoColor=A8C7FA" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/HTML5-080B12?style=flat-square&logo=html5&logoColor=A8C7FA" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-080B12?style=flat-square&logo=css3&logoColor=A8C7FA" alt="CSS3"/>
+<img src="https://img.shields.io/badge/MySQL-080B12?style=flat-square&logo=mysql&logoColor=A8C7FA" alt="MySQL"/>
+<img src="https://img.shields.io/badge/Docker-080B12?style=flat-square&logo=docker&logoColor=A8C7FA" alt="Docker"/>
+<img src="https://img.shields.io/badge/Google_Cloud-080B12?style=flat-square&logo=googlecloud&logoColor=A8C7FA" alt="Google Cloud"/>
+<img src="https://img.shields.io/badge/Kali_Linux-080B12?style=flat-square&logo=kalilinux&logoColor=A8C7FA" alt="Kali Linux"/>
+<img src="https://img.shields.io/badge/Fedora-080B12?style=flat-square&logo=fedora&logoColor=A8C7FA" alt="Fedora"/>
+<img src="https://img.shields.io/badge/Red_Hat-080B12?style=flat-square&logo=redhat&logoColor=A8C7FA" alt="Red Hat"/>
+<img src="https://img.shields.io/badge/Git-080B12?style=flat-square&logo=git&logoColor=A8C7FA" alt="Git"/>
+<img src="https://img.shields.io/badge/Eclipse-080B12?style=flat-square&logo=eclipseide&logoColor=A8C7FA" alt="Eclipse"/>
+<img src="https://img.shields.io/badge/Figma-080B12?style=flat-square&logo=figma&logoColor=A8C7FA" alt="Figma"/>
+<img src="https://img.shields.io/badge/macOS-080B12?style=flat-square&logo=apple&logoColor=A8C7FA" alt="macOS"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### ✦ &nbsp; currently exploring
+
+<br/>
+
+Cybersecurity &nbsp;·&nbsp; JavaEE &nbsp;·&nbsp; Fedora Linux &nbsp;·&nbsp; Red Hat &nbsp;·&nbsp; UI/UX Design
+
+<br/>
+
+<sub>exploring technology, securing systems, building the future.</sub>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### ✧ &nbsp; featured project
+
+**BloodCare**
+
+Plataforma de informação e agendamento para doação de sangue.
+
+Informações confiáveis sobre doação, localização de pontos de coleta, campanhas e integração entre doadores e instituições.
+
+<br/>
+
+<a href="https://www.figma.com/design/NJRis4cEE3mFdDiqw9amqq/BloodCare?node-id=0-1&t=f71j8hDrdCey97lB-1">
+  <img src="https://img.shields.io/badge/Explore_Prototype-0071E3?style=flat-square&logo=figma&logoColor=FFFFFF" alt="Explore BloodCare prototype"/>
+</a>
+
+<br/><br/>
+
+<sub>Learning today. Building tomorrow. ✦</sub>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### ✧ &nbsp; let's connect
+
+<br/>
+
+<a href="https://www.linkedin.com/in/kakaswedev">
+  <img src="https://img.shields.io/badge/LinkedIn-A8C7FA?style=flat-square&logo=linkedin&logoColor=080B12" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="mailto:kauasouzafortuna.swe@gmail.com">
+  <img src="https://img.shields.io/badge/Email-A8C7FA?style=flat-square&logo=gmail&logoColor=080B12" alt="Email"/>
+</a>
+
+<br/>
+
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjhqNnE3cGJiM2VvMTZoaDFocHEydWsxZGJ2eGhxeDQwbTQ3dGZwdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kSxi9DiWH4Q8q1Kbql/giphy.gif" width="110" alt="Gojo Satoru"/>
+
+<br/>
+
+<sub>root@reality:~$ reconnaissance · intelligence · exploitation · defense</sub>
+
+<br/>
+
+<sub>thanks for stopping by ✦ </sub>
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0071E3,50:0A192F,100:080B12&height=120&section=footer" alt="Footer"/>
