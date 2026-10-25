@@ -1,12 +1,4 @@
 <div align="center">
-  <a href="https://giphy.com/stickers/cat-pixel-animal-I3rbjijgss7D2Oab2A">
-    <img src="https://media.giphy.com/media/I3rbjijgss7D2Oab2A/giphy.gif"
-         width="100"
-         alt="Pixel cat">
-  </a>
-</div> 
-
-<div align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080B12,50:0A192F,100:0071E3&height=200&section=header&text=Kau%C3%A3%20Fortuna&fontSize=44&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Software%20Engineering%20Student%20%E2%80%A2%20Cybersecurity%20%E2%80%A2%20Development&descSize=14&descAlignY=58" alt="Kauã Fortuna"/>
 
 <br/>
@@ -121,7 +113,14 @@ Informações confiáveis sobre doação, localização de pontos de coleta, cam
 
 <br/>
 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjhqNnE3cGJiM2VvMTZoaDFocHEydWsxZGJ2eGhxeDQwbTQ3dGZwdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kSxi9DiWH4Q8q1Kbql/giphy.gif" width="110" alt="Gojo Satoru"/>
+<div align="center">
+  <a href="https://giphy.com/stickers/cat-pixel-animal-I3rbjijgss7D2Oab2A">
+    <img src="https://media.giphy.com/media/I3rbjijgss7D2Oab2A/giphy.gif"
+         width="100"
+         alt="Pixel cat">
+  </a>
+</div> 
+
 
 <br/>
 
