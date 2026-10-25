@@ -111,7 +111,7 @@ Informações confiáveis sobre doação, localização de pontos de coleta, cam
   <img src="https://img.shields.io/badge/Email-A8C7FA?style=flat-square&logo=gmail&logoColor=080B12" alt="Email"/>
 </a>
 
-<br/>
+<br/><br/>
 
 <div align="center">
   <a href="https://giphy.com/stickers/cat-pixel-animal-I3rbjijgss7D2Oab2A">
