@@ -2,7 +2,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080B12,50:0A192F,100:0071E3&height=200&section=header&text=Kau%C3%A3%20Fortuna&fontSize=44&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Software%20Engineering%20Student%20%E2%80%A2%20Cybersecurity%20%E2%80%A2%20Development&descSize=14&descAlignY=58" alt="Kauã Fortuna"/>
 
 <br/>
-
+<!-- Gostei <3 -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1200&color=A8C7FA&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Cybersecurity+%26+Cyber+Defense;Building+solutions+one+line+at+a+time;Always+learning%2C+always+evolving;root%40reality%3A~%24+reconnaissance;Hello%2C+friend.;Observe.+Investigate.+Understand.;Nothing+is+ever+what+it+seems.;Control+is+an+illusion." alt="Typing SVG"/>
 
 <br/>
