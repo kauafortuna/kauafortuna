@@ -43,8 +43,8 @@ Meu objetivo é continuar aprendendo, construir projetos relevantes e crescer pr
 <img src="https://img.shields.io/badge/HTML5-080B12?style=flat-square&logo=html5&logoColor=A8C7FA" alt="HTML5"/>
 <img src="https://img.shields.io/badge/CSS3-080B12?style=flat-square&logo=css3&logoColor=A8C7FA" alt="CSS3"/>
 <img src="https://img.shields.io/badge/MySQL-080B12?style=flat-square&logo=mysql&logoColor=A8C7FA" alt="MySQL"/>
-<img src="https://img.shields.io/badge/Docker-080B12?style=flat-square&logo=docker&logoColor=A8C7FA" alt="Docker"/>
-<img src="https://img.shields.io/badge/Google_Cloud-080B12?style=flat-square&logo=googlecloud&logoColor=A8C7FA" alt="Google Cloud"/>
+<!-- <img src="https://img.shields.io/badge/Docker-080B12?style=flat-square&logo=docker&logoColor=A8C7FA" alt="Docker"/>
+<img src="https://img.shields.io/badge/Google_Cloud-080B12?style=flat-square&logo=googlecloud&logoColor=A8C7FA" alt="Google Cloud"/>-->
 <img src="https://img.shields.io/badge/Kali_Linux-080B12?style=flat-square&logo=kalilinux&logoColor=A8C7FA" alt="Kali Linux"/>
 <img src="https://img.shields.io/badge/Fedora-080B12?style=flat-square&logo=fedora&logoColor=A8C7FA" alt="Fedora"/>
 <img src="https://img.shields.io/badge/Red_Hat-080B12?style=flat-square&logo=redhat&logoColor=A8C7FA" alt="Red Hat"/>
